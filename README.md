@@ -27,6 +27,17 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
 | 📱 Android 6+ | `Crypto-Accountant-1.0.apk` | During install, allow "Install from unknown sources" for your browser or file manager. |
 | 🖥️ Windows 10/11 (64-bit) | `Crypto-Accountant-1.0-Windows.exe` | Portable, no installation needed. If SmartScreen warns you: **More info → Run anyway**. |
 
+### 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/01-assets.jpg" width="170" alt="Assets">
+  <img src="screenshots/02-income.jpg" width="170" alt="Income">
+  <img src="screenshots/03-expenses.jpg" width="170" alt="Expenses">
+  <img src="screenshots/04-wallets.jpg" width="170" alt="Wallets">
+  <img src="screenshots/05-onboarding-spend.jpg" width="170" alt="Spend percentage">
+  <img src="screenshots/06-onboarding-currency.jpg" width="170" alt="Currency">
+</p>
+
 ### 🔒 Security & Privacy
 
 - 🗄️ All data stays **on your device only**. There is no server.
@@ -58,6 +69,17 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
 |---|---|---|
 | 📱 اندروید ۶ به بالا | `Crypto-Accountant-1.0.apk` | هنگام نصب، گزینهٔ «نصب از منابع ناشناس» را برای مرورگر یا فایل‌منیجر فعال کنید. |
 | 🖥️ ویندوز ۱۰/۱۱ (۶۴ بیتی) | `Crypto-Accountant-1.0-Windows.exe` | پرتابل و بدون نیاز به نصب. اگر SmartScreen هشدار داد: **More info ← Run anyway** |
+
+### 📸 تصاویر برنامه
+
+<div align="center">
+  <img src="screenshots/01-assets.jpg" width="170" alt="دارایی‌ها">
+  <img src="screenshots/02-income.jpg" width="170" alt="درآمد">
+  <img src="screenshots/03-expenses.jpg" width="170" alt="هزینه‌ها">
+  <img src="screenshots/04-wallets.jpg" width="170" alt="کیف پول‌ها">
+  <img src="screenshots/05-onboarding-spend.jpg" width="170" alt="درصد خرج">
+  <img src="screenshots/06-onboarding-currency.jpg" width="170" alt="انتخاب ارز">
+</div>
 
 ### 🔒 امنیت و حریم خصوصی
 
