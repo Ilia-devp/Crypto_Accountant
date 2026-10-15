@@ -10,11 +10,13 @@ Ready-to-install builds only — the app source code is private.
 ![Android](https://img.shields.io/badge/Android-6.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11_64--bit-0078d4?style=for-the-badge&logo=windows&logoColor=white)
 
-[English](#-english) · [فارسی](#-فارسی)
+[English](#english) · [فارسی](#persian)
 
 </div>
 
 ---
+
+<a id="english"></a>
 
 ## 🇬🇧 English
 
@@ -49,6 +51,8 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
 
 ---
 
+<a id="persian"></a>
+
 <div dir="rtl" align="right">
 
 ## 🇮🇷 فارسی
@@ -72,14 +76,14 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
 
 ### 📸 تصاویر برنامه
 
-<div align="center">
+<p align="center" dir="ltr">
   <img src="screenshots/01-assets.jpg" width="170" alt="دارایی‌ها">
   <img src="screenshots/02-income.jpg" width="170" alt="درآمد">
   <img src="screenshots/03-expenses.jpg" width="170" alt="هزینه‌ها">
   <img src="screenshots/04-wallets.jpg" width="170" alt="کیف پول‌ها">
   <img src="screenshots/05-onboarding-spend.jpg" width="170" alt="درصد خرج">
   <img src="screenshots/06-onboarding-currency.jpg" width="170" alt="انتخاب ارز">
-</div>
+</p>
 
 ### 🔒 امنیت و حریم خصوصی
 
