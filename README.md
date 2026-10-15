@@ -9,6 +9,8 @@ Ready-to-install builds only — the app source code is private.
 [![Download](https://img.shields.io/badge/⬇_Download-Latest_Release-10b981?style=for-the-badge)](../../releases/latest)
 ![Android](https://img.shields.io/badge/Android-6.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11_64--bit-0078d4?style=for-the-badge&logo=windows&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ilia--devp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilia-devp)
 [![GitHub](https://img.shields.io/badge/GitHub-IArshiadev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IArshiadev)
 
 [English](#english) · [فارسی](#persian)
@@ -50,9 +52,9 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
 
 > **Note:** This repository is for distributing installers (APK / EXE) only. The source code is kept in a private repository and is not published.
 
-### 👤 Author
+### 👤 Authors
 
-Made by **[IArshiadev](https://github.com/IArshiadev)**. Bug reports and suggestions are welcome via [Issues](../../issues).
+Made by **[Ilia-devp](https://github.com/Ilia-devp)** and **[IArshiadev](https://github.com/IArshiadev)**. Bug reports and suggestions are welcome via [Issues](../../issues).
 
 ---
 
@@ -99,8 +101,8 @@ Made by **[IArshiadev](https://github.com/IArshiadev)**. Bug reports and suggest
 
 > **توجه:** این مخزن فقط برای انتشار فایل‌های نصبی (APK / EXE) است. کد برنامه در یک مخزن خصوصی نگهداری می‌شود و منتشر نمی‌شود.
 
-### 👤 سازنده
+### 👤 سازندگان
 
-ساخته‌شده توسط **[IArshiadev](https://github.com/IArshiadev)**. برای گزارش خطا و پیشنهاد، از بخش [Issues](../../issues) استفاده کنید.
+ساخته‌شده توسط **[Ilia-devp](https://github.com/Ilia-devp)** و **[IArshiadev](https://github.com/IArshiadev)**. برای گزارش خطا و پیشنهاد، از بخش [Issues](../../issues) استفاده کنید.
 
 </div>
