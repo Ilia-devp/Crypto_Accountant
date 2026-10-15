@@ -52,6 +52,18 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
 
 > **Note:** This repository is for distributing installers (APK / EXE) only. The source code is kept in a private repository and is not published.
 
+### 💚 Support the Project
+
+If this app is useful to you, you can support its development with a donation. It is completely optional.
+
+**Network:** TRON (TRC20)
+
+```
+TRRDbK8jWbNJRghr6dSmr9m6fRvxRy1yVt
+```
+
+> ⚠️ Send only via the **TRON (TRC20)** network. Funds sent on another network may be lost.
+
 ### 👤 Authors
 
 Made by **[Ilia-devp](https://github.com/Ilia-devp)** and **[IArshiadev](https://github.com/IArshiadev)**. Bug reports and suggestions are welcome via [Issues](../../issues).
@@ -100,6 +112,22 @@ Made by **[Ilia-devp](https://github.com/Ilia-devp)** and **[IArshiadev](https:/
 - 🚫 بدون تبلیغ، بدون رهگیری و بدون نیاز به حساب کاربری.
 
 > **توجه:** این مخزن فقط برای انتشار فایل‌های نصبی (APK / EXE) است. کد برنامه در یک مخزن خصوصی نگهداری می‌شود و منتشر نمی‌شود.
+
+### 💚 حمایت مالی
+
+اگر برنامه برایتان مفید بود، می‌توانید با کمک مالی از ادامهٔ توسعه آن حمایت کنید. این کار کاملاً اختیاری است.
+
+**شبکه:** TRON (TRC20)
+
+<div dir="ltr" align="left">
+
+```
+TRRDbK8jWbNJRghr6dSmr9m6fRvxRy1yVt
+```
+
+</div>
+
+> ⚠️ فقط از طریق شبکهٔ **TRON (TRC20)** واریز کنید. واریز از شبکهٔ دیگر ممکن است باعث از دست رفتن مبلغ شود.
 
 ### 👤 سازندگان
 
