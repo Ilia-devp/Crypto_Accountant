@@ -43,6 +43,42 @@ Get the latest version from the **[Releases page](../../releases/latest)**.
   <img src="screenshots/06-onboarding-currency.jpg" width="170" alt="Currency">
 </p>
 
+### 📖 Quick Start Guide
+
+**1. Install the app**
+- **Android:** download the `.apk` from the Releases page, open it, and allow "Install from unknown sources" if asked.
+- **Windows:** download the `.exe` and run it. No installation needed. If SmartScreen warns you, choose **More info → Run anyway**.
+
+**2. First-time setup**
+- Choose your **currency** (the currency you want balances and reports shown in).
+- Set your **spend percentage**: the share of your income you plan to spend. The rest is what the app treats as savings.
+- Optionally set an **app password** now (you can also do it later in settings).
+
+**3. Add your wallets**
+- Open the **Wallets** tab and add a wallet by pasting its **public address**.
+- Never enter a private key or recovery phrase. The app does not need them and will never ask for them.
+- Your balances then appear in the **Assets** tab.
+
+**4. Record income**
+- Open the **Income** tab and add each crypto payment you receive (amount, date, and a short note if you like).
+- The app keeps a running total of your income.
+
+**5. Record expenses**
+- Open the **Expenses** tab and add what you spend, so your real available balance stays accurate.
+
+**6. Know how much to cash out**
+- Using your income, expenses, and the spend percentage you chose, the app shows how much you should cash out. Check the **Assets** tab for the overview.
+
+**7. Protect and back up your data**
+- Turn on **app lock** with a password.
+- Create an **encrypted backup** (AES-GCM) regularly and keep the file somewhere safe. Since there is no server, a backup is the only way to restore your data on a new device.
+- Use **hide balance** when others can see your screen.
+
+**Tips**
+- Record income as soon as you receive it, so the numbers stay correct.
+- Keep your password somewhere safe. Encrypted backups cannot be opened without it.
+- To move to a new phone or PC, create a backup, copy it over, and restore it in the new install.
+
 ### 🔒 Security & Privacy
 
 - 🗄️ All data stays **on your device only**. There is no server.
@@ -103,6 +139,42 @@ Made by **[Ilia-devp](https://github.com/Ilia-devp)** and **[IArshiadev](https:/
   <img src="screenshots/05-onboarding-spend.jpg" width="170" alt="درصد خرج">
   <img src="screenshots/06-onboarding-currency.jpg" width="170" alt="انتخاب ارز">
 </p>
+
+### 📖 آموزش شروع سریع
+
+**۱. نصب برنامه**
+- **اندروید:** فایل `.apk` را از صفحهٔ Releases دانلود و باز کنید و در صورت پرسیده شدن، «نصب از منابع ناشناس» را فعال کنید.
+- **ویندوز:** فایل `.exe` را دانلود و اجرا کنید. نیازی به نصب نیست. اگر SmartScreen هشدار داد، **More info ← Run anyway** را بزنید.
+
+**۲. تنظیمات اولیه**
+- **ارز** مورد نظرتان را انتخاب کنید (ارزی که موجودی و گزارش‌ها با آن نمایش داده می‌شود).
+- **درصد خرج** را تعیین کنید: سهمی از درآمد که قصد دارید خرج کنید. باقی‌مانده را برنامه به‌عنوان پس‌انداز در نظر می‌گیرد.
+- در صورت تمایل همین‌جا **رمز برنامه** بگذارید (بعداً هم از تنظیمات ممکن است).
+
+**۳. افزودن کیف پول‌ها**
+- وارد تب **کیف پول‌ها** شوید و با چسباندن **آدرس عمومی** کیف پول، آن را اضافه کنید.
+- هرگز کلید خصوصی یا عبارت بازیابی وارد نکنید. برنامه به آن‌ها نیازی ندارد و هیچ‌وقت نمی‌خواهد.
+- پس از آن، موجودی‌ها در تب **دارایی‌ها** نمایش داده می‌شود.
+
+**۴. ثبت درآمد**
+- وارد تب **درآمد** شوید و هر دریافتی کریپتو را ثبت کنید (مبلغ، تاریخ و در صورت تمایل یک یادداشت کوتاه).
+- برنامه مجموع درآمد شما را به‌صورت خودکار نگه می‌دارد.
+
+**۵. ثبت هزینه‌ها**
+- وارد تب **هزینه‌ها** شوید و خرج‌هایتان را ثبت کنید تا موجودی واقعی قابل استفاده دقیق بماند.
+
+**۶. دانستن مقدار برداشت**
+- برنامه با توجه به درآمد، هزینه‌ها و درصد خرجی که تعیین کرده‌اید، نشان می‌دهد چقدر باید برداشت کنید. نمای کلی را در تب **دارایی‌ها** ببینید.
+
+**۷. محافظت و پشتیبان‌گیری**
+- **قفل برنامه** را با رمز فعال کنید.
+- به‌طور منظم **بکاپ رمزنگاری‌شده** (AES-GCM) بگیرید و فایل را جای امن نگه دارید. چون سروری وجود ندارد، بکاپ تنها راه بازگرداندن اطلاعات روی دستگاه جدید است.
+- هر وقت دیگران صفحه را می‌بینند، **مخفی‌کردن موجودی** را روشن کنید.
+
+**نکته‌ها**
+- درآمد را به‌محض دریافت ثبت کنید تا اعداد دقیق بمانند.
+- رمز خود را در جای امن نگه دارید. بکاپ‌های رمزنگاری‌شده بدون آن باز نمی‌شوند.
+- برای انتقال به گوشی یا کامپیوتر جدید، بکاپ بگیرید، فایل را منتقل کنید و در نصب جدید بازیابی کنید.
 
 ### 🔒 امنیت و حریم خصوصی
 
