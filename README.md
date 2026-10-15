@@ -21,7 +21,7 @@ Ready-to-install builds only — the app source code is private.
 
 <a id="english"></a>
 
-## 🇬🇧 English
+##  English
 
 ### ⬇ Download
 
@@ -74,7 +74,7 @@ Made by **[Ilia-devp](https://github.com/Ilia-devp)** and **[IArshiadev](https:/
 
 <div dir="rtl" align="right">
 
-## 🇮🇷 فارسی
+##  فارسی
 
 <div align="center">
 
